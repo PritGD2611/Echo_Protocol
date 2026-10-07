@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 804b7923e6a9c394ab5d0e872063375e, type: 3}
+  m_Name: Gallu
+  m_EditorClassIdentifier: Assembly-CSharp::JournalPageData
+  pageTitle: Gallu
+  pageText: "Evidence: \n EMF Level 5\n Ultraviolet\n Spirit Box \n "
+  pageImage: {fileID: 1344066075, guid: 5bbf1f56896b2be4a95fe28e63361d3b, type: 3}
